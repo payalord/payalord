@@ -9,8 +9,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=payalord&redirect=true">
-    <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=payalord&cover_image=true&theme=default" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=payalord&redirect=true">
+    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=payalord&cover_image=true&theme=default" />
   </a>
 </p>
 

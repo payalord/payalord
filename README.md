@@ -9,8 +9,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=payalord&redirect=true">
-    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=payalord&cover_image=true&theme=default" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=payalord&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
 
